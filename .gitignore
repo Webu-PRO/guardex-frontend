@@ -8,17 +8,3 @@
 .DS_Store
 .codex
 .omx/
-
-# multiagent-safety:START
-.omx/
-.omc/
-scripts/*
-scripts/agent-branch-start.sh
-scripts/agent-file-locks.py
-.githooks
-oh-my-codex/
-.codex/skills/gitguardex/SKILL.md
-.codex/skills/guardex-merge-skills-to-dev/SKILL.md
-.claude/commands/gitguardex.md
-.omx/state/agent-file-locks.json
-# multiagent-safety:END
